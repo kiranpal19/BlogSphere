@@ -1,0 +1,66 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+ /* new shortcut */
+
+  @import "tailwindcss";
+
+  :root {
+    /* Body text */
+    --font-sans: "Nunito Sans", "Open Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+    /* Headings */
+    --font-headings: Poppins, Raleway, ui-sans-serif, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial;
+    /* Code */
+    --font-mono: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    /* Brand accent (use as needed) */
+    --font-brand: Pacifico, Caveat, cursive;
+  }
+
+  html, body, #root {
+    height: 100%;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    color: rgb(30 41 59 / 1); /* text-slate-800 */
+    background-color: rgb(248 250 252 / 1); /* bg-slate-50 */
+  }
+
+  code, pre, kbd, samp {
+    font-family: var(--font-mono);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-headings);
+  }
+
+  /* Global link style per spec */
+  a {
+    color: rgb(244 114 182 / 1); /* text-pink-400 */
+    text-decoration: underline;
+  }
+  a:hover {
+    color: rgb(129 140 248 / 1); /* text-indigo-400 */
+  }
+
+  /* Optional helper for branded text */
+  .brand-accent {
+    font-family: var(--font-brand);
+  }
+
+  /* Lightweight prose styles */
+  .prose {
+    color: rgb(30 41 59 / 1);
+    line-height: 1.75;
+  }
+  .prose h1 { font-size: 2.25rem; line-height: 2.5rem; font-weight: 800; margin: 1.2em 0 0.6em; }
+  .prose h2 { font-size: 1.875rem; line-height: 2.25rem; font-weight: 700; margin: 1.1em 0 0.5em; }
+  .prose h3 { font-size: 1.5rem; line-height: 2rem; font-weight: 700; margin: 1em 0 0.5em; }
+  .prose p { margin: 0.9em 0; }
+  .prose a { color: rgb(79 70 229 / 1); text-decoration: underline; }
+  .prose ul, .prose ol { padding-left: 1.25rem; margin: 0.75em 0; }
+  .prose li { margin: 0.25em 0; }
+  .prose blockquote { border-left: 4px solid rgb(226 232 240 / 1); padding-left: 1rem; color: rgb(100 116 139 / 1); font-style: italic; }
+  .prose img { border-radius: 0.75rem; }
+
