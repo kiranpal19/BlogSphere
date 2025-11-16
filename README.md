@@ -2,9 +2,6 @@
 
 A modern, responsive blog application built with React and Appwrite. Create, read, update, and delete blog posts with a clean and intuitive user interface.
 
-![BlogSphere Screenshot](https://via.placeholder.com/800x400?text=BlogSphere+Screenshot)  
-*Screenshot placeholder - add your own screenshot here*
-
 ## ✨ Features
 
 - 📝 Create and publish blog posts
@@ -77,11 +74,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📫 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - your.email@example.com
+ kirankaur5560@gmail.com
 
 Project Link: [https://github.com/kiranpal19/BlogSphere](https://github.com/kiranpal19/BlogSphere)
 
-## 🙏 Acknowledgments
 
 - [Vite](https://vitejs.dev/) for the amazing development experience
 - [Appwrite](https://appwrite.io/) for the powerful backend services
