@@ -1,8 +1,8 @@
-# BlogSphere
+BlogSphere
 
 A modern, responsive blog application built with React and Appwrite. Create, read, update, and delete blog posts with a clean and intuitive user interface.
 
-## ✨ Features
+✨ Features
 
 - 📝 Create and publish blog posts
 - 🔍 Browse and search blog posts
@@ -11,15 +11,15 @@ A modern, responsive blog application built with React and Appwrite. Create, rea
 - 🎨 Responsive design for all devices
 - ⚡ Fast and performant with React and Vite
 
-## 🚀 Getting Started
+🚀 Getting Started
 
-### Prerequisites
+ Prerequisites
 
 - Node.js (v14 or later)
 - npm or yarn
 - Appwrite backend (for authentication and database)
 
-### Installation
+ Installation
 
 1. Clone the repository:
    ```bash
@@ -50,15 +50,15 @@ A modern, responsive blog application built with React and Appwrite. Create, rea
    yarn dev
    ```
 
-## 🛠️ Built With
+Built With
 
 - [React](https://reactjs.org/) - Frontend library
 - [Vite](https://vitejs.dev/) - Build tool
 - [Appwrite](https://appwrite.io/) - Backend as a Service
 - [React Router](https://reactrouter.com/) - Routing
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
-
-## 🤝 Contributing
+- 
+🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -68,13 +68,7 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📫 Contact
-
- kirankaur5560@gmail.com
 
 Project Link: [https://github.com/kiranpal19/BlogSphere](https://github.com/kiranpal19/BlogSphere)
 
