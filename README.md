@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BlogSphere
 
 A modern, responsive blog application built with React and Appwrite. Create, read, update, and delete blog posts with a clean and intuitive user interface.
@@ -17,12 +18,38 @@ A modern, responsive blog application built with React and Appwrite. Create, rea
 ## 🚀 Getting Started
 
 ### Prerequisites
+=======
+BlogSphere
+
+A modern, responsive blog application built with React and Appwrite. Create, read, update, and delete blog posts with a clean and intuitive user interface.
+
+✨ Features
+
+- 📝 Create and publish blog posts
+- 🔍 Browse and search blog posts
+- 👤 User authentication (signup/login)
+- ✏️ Rich text editor for post content
+- 🎨 Responsive design for all devices
+- ⚡ Fast and performant with React and Vite
+
+## Topics 
+
+react appwrite tinymce tailwindcss blog full-stack vite
+
+🚀 Getting Started
+
+ Prerequisites
+>>>>>>> a5d472d01c5f625c70cd694728b980f7e79b0150
 
 - Node.js (v14 or later)
 - npm or yarn
 - Appwrite backend (for authentication and database)
 
+<<<<<<< HEAD
 ### Installation
+=======
+ Installation
+>>>>>>> a5d472d01c5f625c70cd694728b980f7e79b0150
 
 1. Clone the repository:
    ```bash
@@ -53,15 +80,24 @@ A modern, responsive blog application built with React and Appwrite. Create, rea
    yarn dev
    ```
 
+<<<<<<< HEAD
 ## 🛠️ Built With
+=======
+Built With
+>>>>>>> a5d472d01c5f625c70cd694728b980f7e79b0150
 
 - [React](https://reactjs.org/) - Frontend library
 - [Vite](https://vitejs.dev/) - Build tool
 - [Appwrite](https://appwrite.io/) - Backend as a Service
 - [React Router](https://reactrouter.com/) - Routing
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
+<<<<<<< HEAD
 
 ## 🤝 Contributing
+=======
+- 
+🤝 Contributing
+>>>>>>> a5d472d01c5f625c70cd694728b980f7e79b0150
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -71,6 +107,7 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<<<<<<< HEAD
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -82,6 +119,12 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - your.email@exam
 Project Link: [https://github.com/kiranpal19/BlogSphere](https://github.com/kiranpal19/BlogSphere)
 
 ## 🙏 Acknowledgments
+=======
+
+
+Project Link: [https://github.com/kiranpal19/BlogSphere](https://github.com/kiranpal19/BlogSphere)
+
+>>>>>>> a5d472d01c5f625c70cd694728b980f7e79b0150
 
 - [Vite](https://vitejs.dev/) for the amazing development experience
 - [Appwrite](https://appwrite.io/) for the powerful backend services
