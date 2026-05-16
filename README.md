@@ -11,6 +11,10 @@ A modern, responsive blog application built with React and Appwrite. Create, rea
 - 🎨 Responsive design for all devices
 - ⚡ Fast and performant with React and Vite
 
+## Topics 
+
+react appwrite tinymce tailwindcss blog full-stack vite
+
 🚀 Getting Started
 
  Prerequisites
